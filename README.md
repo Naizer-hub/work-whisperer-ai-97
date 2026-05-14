@@ -34,3 +34,5 @@ Frontend routes
 Responsible AI
 - Ethics directive injected into every prompt (no fabrication, flag uncertainty, avoid sensitive data, remind user to verify)
 - Footer reminder in the chat header
+<img width="1350" height="602" alt="Aria" src="https://github.com/user-attachments/assets/90e6e7bb-73f8-48eb-bf4e-88f12788cb37" />
+"C:\Users\CAPACITI-JHB\OneDrive\Pictures\Screenshots\Aria.png"
