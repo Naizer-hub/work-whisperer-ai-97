@@ -36,3 +36,4 @@ Responsible AI
 - Footer reminder in the chat header
 <img width="1350" height="602" alt="Aria" src="https://github.com/user-attachments/assets/90e6e7bb-73f8-48eb-bf4e-88f12788cb37" />
 "C:\Users\CAPACITI-JHB\OneDrive\Pictures\Screenshots\Aria.png"
+<img width="1348" height="604" alt="ariapj " src="https://github.com/user-attachments/assets/b6e93866-3952-4329-bf7c-42121185db1c" />
