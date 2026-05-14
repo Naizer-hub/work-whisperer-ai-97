@@ -249,7 +249,7 @@ function MessageBubble({ msg }: { msg: Msg }) {
   return (
     <div className="flex gap-3">
       <div className="h-8 w-8 shrink-0 rounded-lg" style={{ background: "var(--gradient-primary)" }} />
-      <div className="flex-1 prose prose-sm max-w-none prose-headings:font-display prose-p:leading-relaxed prose-pre:bg-muted prose-pre:text-foreground prose-code:text-foreground prose-strong:text-foreground prose-a:text-primary text-foreground">
+      <div className="flex-1 max-w-none text-foreground leading-relaxed [&_p]:my-2 [&_h1]:font-display [&_h1]:text-2xl [&_h1]:mt-4 [&_h2]:font-display [&_h2]:text-xl [&_h2]:mt-4 [&_h3]:font-semibold [&_h3]:mt-3 [&_ul]:list-disc [&_ul]:pl-5 [&_ol]:list-decimal [&_ol]:pl-5 [&_li]:my-1 [&_code]:bg-muted [&_code]:px-1.5 [&_code]:py-0.5 [&_code]:rounded [&_code]:text-sm [&_pre]:bg-muted [&_pre]:p-3 [&_pre]:rounded-lg [&_pre]:overflow-x-auto [&_a]:text-primary [&_a]:underline [&_strong]:font-semibold">
         <ReactMarkdown>{msg.content}</ReactMarkdown>
       </div>
     </div>
